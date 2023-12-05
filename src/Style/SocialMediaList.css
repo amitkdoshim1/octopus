@@ -1,0 +1,7 @@
+.platform-logo {
+    width: 20%; /* You can adjust the percentage based on your preference */
+    max-width: 100px; /* Set a max-width if needed */
+    height: auto;
+    border-radius: 50%;
+  }
+  
